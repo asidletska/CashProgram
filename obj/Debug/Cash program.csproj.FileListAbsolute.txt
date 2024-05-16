@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Cash program\bin\Debug\Cash program.exe.config
+C:\Users\user\source\repos\Cash program\bin\Debug\Cash program.exe
+C:\Users\user\source\repos\Cash program\bin\Debug\Cash program.pdb
+C:\Users\user\source\repos\Cash program\obj\Debug\Cash program.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Cash program\obj\Debug\Cash program.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cash program\obj\Debug\Cash program.exe
+C:\Users\user\source\repos\Cash program\obj\Debug\Cash program.pdb
+C:\Users\user\Desktop\ПОРТФОЛІО\C# projects\Cash program\bin\Debug\Cash program.exe.config
+C:\Users\user\Desktop\ПОРТФОЛІО\C# projects\Cash program\bin\Debug\Cash program.exe
+C:\Users\user\Desktop\ПОРТФОЛІО\C# projects\Cash program\bin\Debug\Cash program.pdb
+C:\Users\user\Desktop\ПОРТФОЛІО\C# projects\Cash program\obj\Debug\Cash program.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ПОРТФОЛІО\C# projects\Cash program\obj\Debug\Cash program.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ПОРТФОЛІО\C# projects\Cash program\obj\Debug\Cash program.exe
+C:\Users\user\Desktop\ПОРТФОЛІО\C# projects\Cash program\obj\Debug\Cash program.pdb
